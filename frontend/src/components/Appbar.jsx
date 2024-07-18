@@ -2,7 +2,7 @@ export const Appbar = ({user})=>{
       return(
             <div className="shadow h-14 flex justify-between">
                   <div className="flex flex-col font-bold text-xl justify-center ml-4">
-                        Payments app
+                        QuickPay
                   </div>
                   <div className="flex">
                         <div className="flex flex-col justify-center mr-4">

@@ -23,7 +23,7 @@ export default function Page() {
   return (
       <>
       <div className='p-4 flex justify-between border-b-2 items-center'>
-            <h1 className="text-xl font-bold text-blue-500">PayTM</h1>
+            <h1 className="text-xl font-bold text-blue-500">QuickPay</h1>
             <button onClick={() => {
                   navigate("/signup")
             }} className='p-2 min-w-24 bg-black text-white rounded-lg'>Sign up</button>
